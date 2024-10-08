@@ -65,7 +65,7 @@ function App() {
     return (
         <Layout>
             <Header style={{ color: 'white' }}>
-                <Title style={{ color: 'white', margin: 0 }}>CSV Upload and Table Display</Title>
+                <Title style={{ color: 'white', margin: 0 }}>ST Engineering - CSV to table</Title>
             </Header>
             <Content style={{ padding: '20px' }}>
                 <Upload
